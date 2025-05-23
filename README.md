@@ -15,4 +15,23 @@ These data were obtained through the research project "Cracks detection in railr
 # How to cite
 The data are available for non-commercial research under the following terms: (i) GMSINT Group and UNESP Ilha Solteira should be acknowledged as the source of the data; (ii) this repository should be cited as follows:
 
-* Gonsalez-Beuno, C. G.; Santos, R. B.; Castillo, P. C. A.; Bueno, D. D., *Experimental vibration measurements in rail sections* [Data set], Github, https://github.com/GMSINT/experimental-vibration-rail
+* Gonsalez-Beuno, C. G.; Santos, R. B.; Castillo, P. C. A.; Bueno, D. D., (2025), *Experimental vibration measurements in rail sections* [Data set], Github, https://github.com/GMSINT/experimental-vibration-rail
+
+If you are using a LaTeX Editor, you can cite this repository using these BibTeX citations:
+
+```bibtex
+@misc{gonsalez2025vibration,
+  author       = {Gonsalez-Beuno, Camila G. and Santos, Ricardo B. and Castillo, Paulo C. A. and Bueno, Douglas D.},
+  title        = {Experimental vibration measurements in rail sections},
+  year         = {2025},
+  howpublished = {\url{https://github.com/GMSINT/experimental-vibration-rail}},
+  note         = {[Data set]. GitHub},
+}
+```
+
+# Funding
+São Paulo Research Foundation [FAPESP](https://fapesp.br/en) Grant number 2022/10174-5 and Fundação Amazônia de Amparo a Estudos e Pesquisas [FAPESPA](https://www.fapespa.pa.gov.br/).
+
+
+# Licence
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA): A creative commons license that bans commercial use and requires you to release any modified works under this license.
