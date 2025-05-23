@@ -7,8 +7,8 @@ These data were obtained through the research project "[Cracks detection in rail
 *This research project aims to develop a methodology for crack detection in railway tracks by combining experimental measurements of electromechanical impedance (EMI) and flexural and longitudinal wave propagation. Piezoelectric transducers are employed for both EMI sensing and wave-based measurements. The approach also includes numerical and computational investigations of wave propagation in beam-like structures with periodically distributed discrete elements, representing the railway sleepers. Wave analysis enables the identification of optimal excitation frequencies for damage detection, based on the location and severity of defects. The research further proposes novel damage detection indices that integrate information from both EMI and wave-based data. The project fosters strong collaboration between research groups in the states of São Paulo and Pará, promoting mutual training and joint development.*
 
 # Authors
-* Camilla G. Gonsalez-Bueno
 * Rodrigo B. Santos
+* Camilla G. Gonsalez-Bueno
 * Pedro C. Ayala Castillo
 * [Douglas D. Bueno](https://feis.unesp.br/douglasbueno)
 
