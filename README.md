@@ -32,6 +32,7 @@ If you are using a LaTeX Editor, you can cite this repository using these BibTeX
 # Funding
 São Paulo Research Foundation [FAPESP](https://fapesp.br/en) Grant number 2022/10174-5 and Fundação Amazônia de Amparo a Estudos e Pesquisas [FAPESPA](https://www.fapespa.pa.gov.br/).
 
+![ ](/sponsors.png)
 
 # Licence
 Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA): A creative commons license that bans commercial use and requires you to release any modified works under this license.
